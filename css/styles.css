@@ -437,7 +437,7 @@ overflow: hidden;
 .overlay {
     position: absolute;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     top: 0;
     left: 0;
     transform: translateY(100%);
@@ -549,6 +549,6 @@ color: #fff;
 .footer-socials {
     display: flex;
     gap: 16px;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; 
+    align-items: center; 
   }
